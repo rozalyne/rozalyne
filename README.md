@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Some Back End**
 - 📫 How to reach me **rickyerlangga.h@gmail.com**
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rozalyne&label=Profile%20views&color=0e75b6&style=flat" alt="rozalyne" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/1c/ec/60/1cec60b076ed3e42a0a253548370a353.gif">
 
 
@@ -17,3 +16,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rozalyne&label=Profile%20views&color=0e75b6&style=flat" alt="rozalyne" /> </p>
