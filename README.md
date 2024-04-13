@@ -40,7 +40,8 @@
     <td></td>
 	</tr>
 </table>
-
+  <p><img align="left" alt="rozalyne Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozalyne&show_icons=true&locale=en&layout=compact" /></p>
+  <p><img alt="rozalyne Stats" src="https://github-readme-stats.vercel.app/api?username=rozalyne&show_icons=true&locale=en" /> </p>
 
 
 
