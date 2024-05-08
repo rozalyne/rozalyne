@@ -11,7 +11,7 @@
 		<td>
 			<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white">
 			<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white">
-			<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black">
+			<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 			<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-blueviolet?logo=bootstrap&logoColor=white">
 			<img alt="Jquery" src="https://img.shields.io/badge/-Jquery-critical?logo=jquery&logoColor=white">
 			<img alt="NextJS" src="https://img.shields.io/badge/-NextJS-critical?logo=nextdotjs&logoColor=white">
